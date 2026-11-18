@@ -1,0 +1,17 @@
+profile.html
+
+1. background-color: #0f172a;
+
+2. the class is .title, color: #38bdf8; changes its color
+
+3. the button turns #0284c7
+
+
+
+event.html
+
+4. border, hot pink
+
+5. font-size: 1.8rem;
+
+6. border-radius: 20px;
